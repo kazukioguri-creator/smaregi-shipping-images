@@ -1,0 +1,44 @@
+[
+  {
+    "file": "size-060.png",
+    "title": "60",
+    "subtitle": "送料",
+    "footer": "サイズ",
+    "color": "#2E7D32"
+  },
+  {
+    "file": "size-080.png",
+    "title": "80",
+    "subtitle": "送料",
+    "footer": "サイズ",
+    "color": "#1565C0"
+  },
+  {
+    "file": "size-100.png",
+    "title": "100",
+    "subtitle": "送料",
+    "footer": "サイズ",
+    "color": "#6A1B9A"
+  },
+  {
+    "file": "size-120.png",
+    "title": "120",
+    "subtitle": "送料",
+    "footer": "サイズ",
+    "color": "#EF6C00"
+  },
+  {
+    "file": "size-140.png",
+    "title": "140",
+    "subtitle": "送料",
+    "footer": "サイズ",
+    "color": "#C62828"
+  },
+  {
+    "file": "size-160.png",
+    "title": "160",
+    "subtitle": "送料",
+    "footer": "サイズ",
+    "color": "#37474F"
+  }
+]
